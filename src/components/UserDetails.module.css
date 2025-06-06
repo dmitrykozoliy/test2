@@ -1,0 +1,44 @@
+.card {
+  min-width: 300px;
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.email {
+  color: #0066cc;
+  font-size: 16px;
+}
+
+.section {
+  margin-top: 24px;
+  border-top: 1px solid #f0f0f0;
+  padding-top: 24px;
+}
+
+.section:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.sectionTitle {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+p:last-child {
+  margin-bottom: 0;
+} 

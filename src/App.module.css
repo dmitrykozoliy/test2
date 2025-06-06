@@ -1,0 +1,10 @@
+.container {
+  padding: 0 16px 40px;
+}
+
+.title {
+  text-align: center;
+  margin: 40px 0;
+  font-size: 32px;
+  font-weight: 700;
+} 
